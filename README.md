@@ -10,3 +10,4 @@
 ## Reference
 * https://github.com/matthewsamuel95/ACM-ICPC-Algorithms
 * https://github.com/BedirT/ACM-ICPC-Preparation
+* https://brilliant.org/computer-science/
