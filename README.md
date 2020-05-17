@@ -1,10 +1,5 @@
-# codechef may long challenge 2020
+# Programming Resources
 
 
-EDIT :: Final score == 455
-
-college rank in div 2 :: 5
-
-CHANDF :: 15
-
-SORTVS :: 40
+## Solution to CLRS available at
+* https://walkccc.github.io/CLRS
