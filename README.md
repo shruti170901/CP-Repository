@@ -7,3 +7,8 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  Binary exponentiation
  Euclidean Algorithm 
  ```
+2. **Day 1 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Extended Euclidean Algorithm
+ ```
+     Solved **SPOJ** questions
