@@ -12,3 +12,8 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  Extended Euclidean Algorithm
  ```
      Solved **SPOJ** questions
+
+
+### To Do 
+
+* UVa 12775 - Gift Dilemma
