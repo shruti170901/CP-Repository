@@ -11,8 +11,12 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
 ```
  Extended Euclidean Algorithm
  ```
-     Solved **SPOJ** questions
-
+     Solved *SPOJ* questions
+3. **Day 2 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Linear Diophantine Equations
+ ```
+    Started *Leetcode* Challenge
 
 ### To Do 
 
