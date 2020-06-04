@@ -17,6 +17,13 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  Extended Euclidean Algorithm
  ```
      Started *Leetcode* Challenge
+3. **Day 3 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Extended Euclidean Algorithm
+ ```
+     Doing *Leetcode* Challenge
+     Unlocked CP at IB Hubs
+     Written three articles at gfg
 
 ### To Do 
 
