@@ -24,6 +24,21 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      Doing *Leetcode* Challenge
      Unlocked CP at IB Hubs
      Written three articles at gfg
+3. **Day 4 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Linear Diophantine Equation
+ ```
+     Doing *Leetcode* Challenge
+     Started CP at IB Hubs
+     Edited the two articles at gfg
+     Started CodeChef Long Challenge
+3. **Day 5 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Linear Diophantine Equation
+ ```
+     Doing *Leetcode* Challenge
+     Edited one articles at gfg
+     Did 5 questions in CodeChef Long Challenge till now
 
 ### To Do 
 
