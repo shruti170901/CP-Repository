@@ -17,14 +17,14 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  Extended Euclidean Algorithm
  ```
      Started *Leetcode* Challenge
-3. **Day 3 :** Doing *cpalgorithms* (Algebra Fundamentals)
+4. **Day 3 :** Doing *cpalgorithms* (Algebra Fundamentals)
 ```
  Extended Euclidean Algorithm
  ```
      Doing *Leetcode* Challenge
      Unlocked CP at IB Hubs
      Written three articles at gfg
-3. **Day 4 :** Doing *cpalgorithms* (Algebra Fundamentals)
+5. **Day 4 :** Doing *cpalgorithms* (Algebra Fundamentals)
 ```
  Linear Diophantine Equation
  ```
@@ -32,14 +32,14 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      Started CP at IB Hubs
      Edited the two articles at gfg
      Started CodeChef Long Challenge
-3. **Day 5 :** Doing *cpalgorithms* (Algebra Fundamentals)
+6. **Day 5 :** Doing *cpalgorithms* (Algebra Fundamentals)
 ```
  Linear Diophantine Equation
  ```
      Doing *Leetcode* Challenge
      Edited one articles at gfg
      Did 5 questions in CodeChef Long Challenge till now
-3. **Day 6 :** Doing *cpalgorithms* (Algebra Fundamentals)
+7. **Day 6 :** Doing *cpalgorithms* (Algebra Fundamentals)
 ```
  Linear Diophantine Equation
  ```
@@ -51,3 +51,4 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
 ### To Do 
 
 * UVa 12775 - Gift Dilemma
+* Some DP
