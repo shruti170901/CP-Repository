@@ -39,6 +39,14 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      Doing *Leetcode* Challenge
      Edited one articles at gfg
      Did 5 questions in CodeChef Long Challenge till now
+3. **Day 6 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Linear Diophantine Equation
+ ```
+     Doing *Leetcode* Challenge
+     Did Leetcode Weekly Challenge
+     Doing ibHubs
+     Watched some 3b1b
 
 ### To Do 
 
