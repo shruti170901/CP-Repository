@@ -47,6 +47,13 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      Did Leetcode Weekly Challenge
      Doing ibHubs
      Watched some 3b1b
+8. **Day 7 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Linear Diophantine Equation
+ ```
+     Doing *Leetcode* Challenge
+     Doing ibHubs and got first certificate
+     Did 6 question in cc so far
 
 ### To Do 
 
