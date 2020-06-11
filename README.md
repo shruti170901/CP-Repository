@@ -60,6 +60,12 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  ```
      Doing *Leetcode* Challenge
      Trying 7th question in cc
+9. **Day 8 :** Doing *cpalgorithms* (Algebra Fundamentals)
+```
+ Linear Diophantine Equation
+ ```
+     Doing *Leetcode* Challenge
+     Trying 7th question in cc
 
 ### To Do 
 
