@@ -66,6 +66,16 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  ```
      Doing *Leetcode* Challenge
      Trying 7th question in cc
+11. **Day 10 :**
+```
+     Doing *Leetcode* Challenge
+     Trying 7th question in cc
+ ```
+12. **Day 11 :** 
+ ```
+     Doing *Leetcode* Challenge
+     Got 15 in GUESSG
+ ```
 
 ### To Do 
 
