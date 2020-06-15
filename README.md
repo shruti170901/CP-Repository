@@ -74,7 +74,21 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
 12. **Day 11 :** 
  ```
      Doing *Leetcode* Challenge
-     Got 15 in GUESSG
+     Horowitz
+ ```
+ 13. **Day 12 :** 
+ ```
+     Doing *Leetcode* Challenge
+     Horowitz
+ ```
+ 14. **Day 13 :** 
+ ```
+     Doing *Leetcode* Challenge
+     Horowitz
+ ```
+ 15. **Day 14 :** 
+ ```
+     Doing *Leetcode* Challenge
  ```
 
 ### To Do 
