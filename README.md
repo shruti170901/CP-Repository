@@ -90,8 +90,39 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
  ```
      Doing *Leetcode* Challenge
  ```
+ 16.. **Day 15:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing DAA
+ ```
+ 17.. **Day 16:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing DAA
+ ```
+ 18.. **Day 17:** 
+ ```
+     Doing DAA
+     iB Hubs
+     
+ ```
+ 19.. **Day 18:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing DAA
+     NPTEL
+     
+ ```
+ 20.. **Day 19:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing DAA
+     Doing DP from NPTEL
+ ```
 
 ### To Do 
 
 * UVa 12775 - Gift Dilemma
 * Some DP
+* SRM 250
+
