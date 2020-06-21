@@ -118,6 +118,15 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      Doing *Leetcode* Challenge
      Doing DAA
      Doing DP from NPTEL
+     started topcoder ladder
+ ```
+ 
+21.. **Day 20:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing DAA
+     did leetcode weekly contest
+     doing topcoder ladder
  ```
 
 ### To Do 
