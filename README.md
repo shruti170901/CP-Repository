@@ -128,6 +128,50 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      did leetcode weekly contest
      doing topcoder ladder
  ```
+ 22.. **Day 21:** 
+ ```
+     doing topcoder ladder
+ ```
+ 23.. **Day 22:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing hackerearth circuits
+     doing topcoder ladder
+ ```
+ 24.. **Day 23:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing hackerearth circuits
+     Doing DAA
+     doing topcoder ladder
+ ```
+ 25.. **Day 24:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing hackerearth circuits
+     Done DAA basics 
+     doing topcoder ladder
+ ```
+ 26.. **Day 25:** 
+ ```
+     Doing *Leetcode* Challenge
+     Doing hackerearth circuits
+     Doing DAA crypto
+     doing topcoder ladder
+ ```
+ 27.. **Day 26:** 
+ ```
+     Doing *Leetcode* Challenge
+     did leetcode biweekly contest
+     doing topcoder ladder
+     read graph traversal
+ ```
+ 28.. **Day 27:** 
+ ```
+     Doing *Leetcode* Challenge
+     did leetcode weekly contest
+     doing topcoder ladder
+ ```
 
 ### To Do 
 
