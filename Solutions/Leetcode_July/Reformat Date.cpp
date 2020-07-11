@@ -27,4 +27,4 @@ public:
         //cout << word << month << date;
         return (word + "-" + month + "-" + dateo);
     }
-};
+}; 
