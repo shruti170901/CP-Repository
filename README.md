@@ -172,10 +172,18 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      did leetcode weekly contest
      doing topcoder ladder
  ```
+29. **Day 28 to 41**
+```
+     Did Leetcode 
+     Participated in Weekly and Biweekly
+     Participated in cc long challenge
+```
+
+
+
 
 ### To Do 
 
 * UVa 12775 - Gift Dilemma
-* Some DP
 * SRM 250
 
