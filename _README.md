@@ -172,7 +172,7 @@ This my self taken 100 days of code starting from 1 June,2020. I'll post the udp
      did leetcode weekly contest
      doing topcoder ladder
  ```
-29. **Day 28 to 41**
+29. **Day 28 to 40**
 ```
      Did Leetcode 
      Participated in Weekly and Biweekly
